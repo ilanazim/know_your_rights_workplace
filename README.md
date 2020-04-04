@@ -1,5 +1,5 @@
 # Know Your Rights (KYR) @ Workplace
-Know your rights in the workplace; an app that provides resources and lets women and other gender minorities know their rights when dealing with gender wage gaps, harrassment, and other problems in the workplace.
+Know your rights in the workplace; an app that provides resources and lets women and other gender minorities know their rights when dealing with gender wage gaps, harrassment, and other problems in the workplace. A link to our devpost submission can be found [here](https://devpost.com/software/kyr).
 
 ## Inspiration
 Current methods of filing a complaint for workplace issues are cumbersome in that they require navigating to and going through a long line of options that people have to choose from. Not just that, 
